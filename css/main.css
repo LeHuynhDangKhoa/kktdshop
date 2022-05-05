@@ -1996,3 +1996,27 @@ textarea {
     top: 25px;
     left: 5px
 }
+
+
+#pad10{
+    padding: 0px 40px 40px 40px ;
+}
+#pad20{
+    color: #FE980F;
+}
+#pad2{
+    display: block; margin-left: auto; margin-right: auto;
+}
+
+.just{
+    text-align: justify;
+}
+p {
+
+    margin-bottom: 0 }
+  
+p + p {
+  
+    text-indent: 1.5em;
+  
+    margin-top: 0 }
